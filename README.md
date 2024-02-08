@@ -1,4 +1,8 @@
 # Mindful Harvest Store
+Shopper View
+![Shopper](mindfulHarvest.gif) 
+Admin View
+![Admin User](MindfulHarvestAdmin.gif)
 
 ## Live: https://mindful-harvest.onrender.com/
 
